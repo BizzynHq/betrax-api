@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: myspexg/betrax:latest 
+          tags: myspexg/betrax:latest
